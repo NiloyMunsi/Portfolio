@@ -1,0 +1,27 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+
+
+}
+p{
+    padding: 2%;
+}
+h1{
+    font-size: 50px;
+    color: #7ed6df;
+    padding: 2%;
+}
+h3{
+    padding: 2%;
+}
+span{
+    color: #ffbe76;
+}
+section{
+    display: flex;
+}
+.top{
+    background-image: url(images/my-background.jpg);
+    background-repeat: no-repeat;
+}
